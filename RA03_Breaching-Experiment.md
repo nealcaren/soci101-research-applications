@@ -1,4 +1,4 @@
-Social interaction represents one of the central building blocks of society. Despite being unscripted, these interactions have strict unwritten rules. Breaking those rules, or being deviant, is a critical way of discovering what the norms are and what is the range of reactions to norm violations. Before you begin, please review the section on "Values, Norms, and Sanctions" in the Culture chapter and take a look at page 438 in the textbook ("Encounters with Strangers"), particularly the concept of "civil inattention."
+Interactions are governed by strict unwritten rules. Breaking those rules reveals what norms are and how people react to violations. Before beginning, review the "Values, Norms, and Sanctions" section and page 438 ("Encounters with Strangers") in the textbook, particularly "civil inattention."
 
 This exercise develops three essential sociological skills:
 
@@ -41,14 +41,17 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 
 **All levels should include:**
 - Video or photographic proof of the breach (ideally a link to video; if solo work, a photo pre- or post-breach is sufficient)
-- Proof submission instructions: Attach to Canvas or text to Professor Caren (919-381-7638) with your name. In your report, note: "I texted the video to Professor Caren from my phone, 919-xxx-xxxx"
+- Submit proof via Canvas as part of the assignment or by texting it to Professor Caren (number on syllabus). In your report, note how you submitted it.
 
 **Ethical requirements (all levels):**
 - **Respect the privacy of others.** Do not identify people by name in your report. Use generic descriptions (e.g., "a stranger," "a friend," "a cashier")
-- **Protect emotional safety.** If anyone expressed genuine discomfort or distress, remove that breach from your report and explanation
+- **Protect emotional safety.** If anyone expressed genuine discomfort or distress, remove that breach from your report and explanation. Momentary confusion or awkwardness is expected; sustained distress, anger, or emotional harm is not.
 - If conducting digitally (e.g., in Discord, forums, online games), note the platform and context
 
 ### **Findings: Trends and Significance**
+
+**All levels should:**
+- Note moments where people did *not* react, and analyze what silence or avoidance suggests about the norm.
 
 **Basic (250 words minimum):**
 - Describe which norm(s) you violated and how
@@ -59,7 +62,7 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 **Proficient (500 words minimum):**
 - Describe multiple breaches (more than one norm, or same norm in different ways)
 - Use detailed description to explain people's varied reactions across breaches
-- Discuss your emotional experience and analyze why these feelings occurred
+- Build on your emotional reflection by analyzing *why* these feelings occurred
 - Create a table showing: Norm Violated | Setting | Predicted Reaction | Actual Reaction | Your Feeling
 - Explain what your findings mean sociologically (connection to more than one course concept—bold them, e.g., **civil inattention**, **deviance**, **sanctions**)
 
@@ -70,9 +73,11 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 - Analyze how the breach might have differed if a different person conducted it (consider personality, identity, social position, etc.)
 - Explain findings in relation to course concepts (bold them)
 
+You are graded on sociological analysis and evidence—not on how shocking, funny, or extreme the breach is.
+
 ### **Conclusion: Sociological Synthesis**
 
-**All levels should:**
+**In your conclusion:**
 - Reflect on what your breaches revealed about social norms and interactions
 - Connect findings to course concepts—explain how your observations illustrate or complicate **theories of deviance**, **social control**, **norms and sanctions**, or **civil inattention**
 - Evaluate your methodology: What are the limitations? Could others have interpreted reactions differently? What assumptions did you make?
