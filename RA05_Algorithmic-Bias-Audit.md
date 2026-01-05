@@ -152,6 +152,8 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 
 **Choose ONE. All name pairs are from validated hiring discrimination research.**
 
+**Citation:** Crabtree, Charles et al. "Validated names for experimental studies on race and ethnicity." *Scientific Data* vol. 10, no. 1 (2023): 130. https://doi.org/10.1038/s41597-023-01947-0
+
 ---
 
 ### **OPTION 1: Gender Bias Audit (All White Names, Female vs. Male)**
