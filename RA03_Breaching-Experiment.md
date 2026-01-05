@@ -10,7 +10,7 @@ This exercise develops three essential sociological skills:
 
 In this research application, you will conduct a breaching experiment—an exercise that deliberately violates one or more social norms—and analyze people's reactions. You can work alone or in a group (four or fewer participants), and your breach can be conducted either in physical spaces or digitally. Through your observations and documentation, you'll uncover the invisible rules that structure social interaction and understand what happens when those rules are broken. You'll then write a research report analyzing what your breach revealed about norms, social control, and human interaction.
 
-**Ethical constraints:** The norm violation cannot include illegal activities or those that might risk someone's safety, health, or well-being. Don't complete breaches where the violation itself causes someone sadness or anger (e.g., telling a friend they look ugly). No being mean. **Important:** You may conduct your breach as part of a group, but each person must perform the breach at least once and individually write and submit a research report.
+**Ethical constraints:** The norm violation cannot include illegal activities or those that might risk someone's safety, health, or well-being. Don't complete breaches where the violation itself causes someone sadness or anger (e.g., telling a friend they look ugly). No being mean. **Important:** You may conduct your breach as part of a group, but each person must perform the breach at least once and individually write and submit a research report. If working in a group, you may observe each other's breaches, but each report must focus on your own actions and observations.
 
 The specific requirements for what you need to do vary depending on what grade you would like to earn: Basic (75), Proficient (87), or Advanced (100). Students who come close but do not satisfactorily complete the requirements for a level will be allowed to revise and resubmit their application.
 
@@ -36,7 +36,7 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 **All levels should:**
 - **Clearly explain which social norms you violated.** Be specific: What exactly is the norm? Why is it a norm? How did you violate it?
 - Describe the setting(s) where you conducted the breach(es) (physical or digital)
-- Explain your selection process: Why did you choose these particular norms? What made them good choices for investigation?
+- Explain your selection process: Why did you choose these norms, and what makes them analytically useful?
 - Describe your approach to observation and documentation—what did you pay attention to?
 
 **All levels should include:**
@@ -66,7 +66,7 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 - Create a table showing: Norm Violated | Setting | Predicted Reaction | Actual Reaction | Your Feeling
 - Explain what your findings mean sociologically (connection to more than one course concept—bold them, e.g., **civil inattention**, **deviance**, **sanctions**)
 
-**Advanced (500+ words minimum):**
+**Advanced (600+ words minimum):**
 - Develop and clearly state your hypothesis before describing breaches (e.g., "Strangers are more likely to use face-saving behaviors than friends," or "Online communities have different norm-violation tolerances than in-person spaces")
 - Describe multiple breaches designed to test your hypothesis
 - Create a detailed table showing results: Norm | Context | Hypothesis Prediction | Actual Result | Analysis
