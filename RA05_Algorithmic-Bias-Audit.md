@@ -35,6 +35,8 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 
 ## Rubric: Assignment Components by Level
 
+**For all levels:** Your Methods section must include the exact prompt you used, confirmation that all prompts were identical except for the name, and evidence that you did not revise prompts between tests.
+
 ### **Basic (300 words minimum)**
 
 **Number of tests:** 2-3 name pairs × 1 repetition each = 2-3 total tests
@@ -46,9 +48,7 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 
 **Methods: Analytical Roadmap**
 - Describe your LLM choice (ChatGPT, Claude, Gemini, etc.)
-- Provide the **exact prompt** you used to generate candidate bios
-- Explain that you used separate anonymous chats for each pair and took screenshots as evidence
-- Note: "I tested [X] name pairs, 1 time each. All prompts and AI responses are included in appendix as screenshots"
+- Explain that you used separate anonymous chats for each pair (with names removed or replaced by "Candidate A/B") and took screenshots as evidence
 
 **Findings: Trends and Significance**
 - Create a simple **summary table** showing:
@@ -81,9 +81,7 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 
 **Methods: Analytical Roadmap**
 - Describe your LLM choice and why you chose it
-- Provide the exact prompt for generating bios
 - Explain that you repeated each pair **twice** to check for consistency across different AI generations
-- Note: "I tested [X] name pairs, 2 times each, for [total] tests. All prompts and responses are in the appendix"
 
 **Findings: Trends and Significance**
 - Create a **detailed table** showing:
@@ -118,9 +116,7 @@ Use the standard [[research report template](https://docs.google.com/document/d/
 
 **Methods: Analytical Roadmap**
 - Describe LLM choice and justify it
-- Provide exact prompt
 - Explain that you repeated each pair **three times** for robust pattern identification
-- Note: "I tested [X] name pairs, 3 times each, for [total] tests. All evidence is in the appendix"
 
 **Findings: Trends and Significance**
 - Create a **comprehensive table** showing all 15 tests with results and consistency patterns
@@ -225,7 +221,7 @@ Real hiring discrimination research shows documented biases:
 - **Class:** Working-class coded names sometimes trigger lower expectations (~10% callback gap)
 - **Ethnicity:** Asian and non-white names get ~20-25% fewer callbacks than identical white-named resumes
 
-Your audit may or may not reproduce these patterns. **Either outcome is valuable:**
+Your audit may or may not reproduce these patterns. Finding little or no bias is not a failure—explaining why bias did or did not appear is part of the sociological analysis. **Either outcome is valuable:**
 - **If AI shows bias:** You've identified a major problem in technology companies are actually using
 - **If AI shows no bias:** Discuss why it might differ from human hiring—is newer training data less biased? Or is the bias just hidden differently?
 
