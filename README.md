@@ -1,250 +1,326 @@
-# SOCI 101: Sociological Perspectives
-## Research Applications
+# SOCI 101: Research Applications
+## A Pedagogical Framework for Teaching Sociological Research Methods
 
-This repository contains ten research-based assignments designed to teach students how sociologists observe, measure, and analyze social patterns. Each assignment combines classical sociological concepts with hands-on research methods.
+This repository contains ten research-based assignments for an introductory sociology course. These assignments are designed to teach students how sociologists observe, measure, and analyze social patterns while building practical research literacy.
 
 ---
 
-## Overview
+## Pedagogical Design
 
-**Research Applications** are short, scaffolded assignments where students apply sociological thinking to real-world observations. Each assignment:
+### Core Philosophy
 
-- Builds specific research skills (observation, data collection, analysis, interpretation)
-- Connects directly to course chapters and concepts
-- Offers three difficulty levels: **Basic (75)**, **Proficient (87)**, **Advanced (100)**
-- Allows revision and resubmission for grades below the attempted level
-- Counts toward 30% of the final course grade
+These assignments operationalize three pedagogical principles:
 
-Students complete **10 research applications total** and can drop their **4 lowest grades**. This means each completed RA is worth ~5% of the final grade.
+1. **Scaffolding**: Each assignment explicitly teaches *how* to do sociological research, not just asking students to "do research." Students receive step-by-step guidance on data collection, categorization, and interpretation.
+
+2. **Tiered Difficulty**: Students choose their own level (Basic, Proficient, Advanced), which reduces performance anxiety and encourages intellectual risk-taking. Grades are based on meeting criteria for the chosen level, not on a fixed standard.
+
+3. **Reflexivity**: Every assignment asks students to reflect on limitations, biases, and how their own position shapes what they notice. This teaches that sociology is not about objective "truth" but about transparent, defensible interpretation.
+
+### Why This Matters
+
+In large intro courses, research assignments often become disconnected from method and theory. Students write reflections on "what I observed" without understanding *how* to observe systematically. These assignments reverse that: they make method explicit and show students that even simple observations require careful choices about what counts as "data."
 
 ---
 
 ## The Ten Assignments
 
 ### **RA01: The Beginner's Mind - An Ethnography of Campus Life**
-*Ethnographic observation; social norms and socialization*
 
-Students observe a familiar campus space (dining hall, library, quad) through an outsider's perspective and document invisible social rules, hierarchies, and patterns. Teaches how ordinary social practices are actually complex and rule-governed.
+**Core method:** Ethnographic observation with field notes, photography, and pattern analysis
 
-**Methods:** 1-3 observation sessions, field notes, photographs, analysis of patterns
-**Concepts:** Social norms, socialization, habitus, symbolic interaction, civil inattention
+**What students do:**
+Observe a familiar campus space (dining hall, library, study lounge) as if encountering it for the first time. Document unwritten rules, hierarchies, and behavioral patterns. Take photographs and record field notes.
+
+**Key insight:** Everyday social interactions follow invisible rules that become visible only when you look systematically. This teaches that sociology is fundamentally about seeing order in what appears natural and automatic.
+
+**Research skills:** Observational documentation, pattern recognition, reflexivity on prior knowledge, connecting observations to sociological concepts
+
+**Course fit:** Usually assigned early (Chapters 1-2) as students' first systematic observation. Can be revisited later to show how different concepts (socialization, norms, status) operate in the same space.
 
 ---
 
 ### **RA02: Twenty Statements Test - Identity and Self-Concept**
-*Survey research; identity analysis; systematic coding*
 
-Students complete the classic Twenty Statements Test ("Who am I?") and analyze whether their self-concept is group-based or trait-based. At higher levels, they recruit additional participants and compare coding schemes to understand how measurement choices shape findings.
+**Core method:** Survey research, categorical coding, comparative analysis
 
-**Methods:** Self-administered survey, categorical coding, comparative analysis
-**Concepts:** Identity, self-concept, socialization, social roles, individualism vs. collectivism
+**What students do:**
+Complete the classic TST ("Who am I?") by writing twenty responses. Code responses into categories (group-based, trait-based, role-based, etc.). At higher levels, recruit additional participants and develop custom coding schemes to understand how measurement choices shape findings.
+
+**Key insight:** Self-concept is not a fixed, individual trait but a socially structured pattern. Moreover, how we measure something affects what we find. This teaches measurement validity and inter-coder reliability informally.
+
+**Research skills:** Self-administered survey, systematic categorization, handling ambiguous cases, comparing coding schemes, quantitative summary
+
+**Course fit:** Works well after socialization unit (Chapter 4) or with identity chapters. The custom coding scheme at Advanced level teaches a sophisticated lesson: your research design is a choice, not a neutral act.
 
 ---
 
 ### **RA03: Breaching Experiment - Uncovering Hidden Norms**
-*Ethnomethodology; social interaction; deviance*
 
-Students deliberately violate minor social norms (standing facing backward in an elevator, asking permission for routine favors) and document how people react. Shows that social order depends on shared, unstated understandings that only become visible when broken.
+**Core method:** Ethnomethodology, structured norm violation, observational documentation
 
-**Methods:** Structured norm violation, field observation, interview (optional), analysis of reactions
-**Concepts:** Social norms, deviance, ethnomethodology, social interaction, civil inattention
+**What students do:**
+Deliberately violate minor social norms (standing facing backward in elevator, asking permission to sit, standing too close) and carefully observe how people react. Document both what happens and how they felt during the breach.
+
+**Key insight:** Social order depends on unstated, shared rules that only become visible when broken. This is viscerally memorable—students experience social norms as constraining forces rather than abstract concepts.
+
+**Research skills:** Observational detail, interviewing (optional), analyzing reactions as evidence of shared understanding, reflexivity on discomfort
+
+**Course fit:** Fits naturally after deviance or norms chapters. Also works as a capstone that shows students how much they've learned about social interaction.
+
+**Important note:** Include clear ethics guidance. Students should violate only minor norms in public spaces, never cross consent boundaries, and debrief thoughtfully about the emotional experience.
 
 ---
 
 ### **RA04: Cultural Capital on Television - Class and Representation**
-*Media analysis; cultural capital; class stratification*
 
-Students analyze how television characters display cultural capital—what they read, watch, listen to, eat, how they speak—and connects this to class position. Shows how media both reflects and reproduces class inequalities.
+**Core method:** Content analysis, systematic categorization, visual/textual analysis
 
-**Methods:** Content analysis of 4-6 episodes, categorization by cultural capital markers
-**Concepts:** Cultural capital, class, status, symbolic violence, media representation
+**What students do:**
+Select 4-6 episodes of a TV show and systematically note how characters display cultural capital: what they read, watch, listen to, eat, how they speak, what they know about. Categorize characters by these markers and connect to class position.
+
+**Key insight:** Media is not neutral. Production and creative choices systematically represent some groups and positions while marginalizing others. This teaches how inequality is reproduced through cultural consumption patterns.
+
+**Research skills:** Systematic content analysis, operationalizing abstract concepts (cultural capital), recognizing patterns across episodes
+
+**Course fit:** Bridges media and stratification. Works especially well after chapters on class (7) if students can see concrete examples of class-based cultural differences.
 
 ---
 
-### **RA05: Algorithmic Bias Audit - Testing AI Fairness**
-*Audit study method; algorithmic discrimination; bias in AI*
+### **RA05: Algorithmic Bias Audit - Testing AI for Discrimination**
 
-Students conduct controlled experiments testing whether Large Language Models reproduce documented hiring discrimination based on names that signal gender, class, or ethnicity. They generate candidate bios for matched name pairs, have the LLM compare them, and analyze patterns in bias.
+**Core method:** Audit study design (experimental method), repeated testing, pattern analysis
 
-**Methods:** Audit study design, multiple repetitions, pattern documentation, comparative analysis
-**Concepts:** Discrimination, algorithmic bias, institutional racism, gender/ethnic stratification, meritocracy
+**What students do:**
+Conduct controlled experiments using an LLM (ChatGPT, Claude, etc.) to test for bias. Generate matched candidate bios differing only in a social marker (name signaling gender, ethnicity, or class). Have the LLM compare them and pick the "stronger" candidate. Repeat multiple times to detect patterns.
+
+**Key insight:** AI is not neutral. It reproduces biases in training data and amplifies them at scale. This is the most "contemporary" assignment and directly connects to debates about fairness and automation.
+
+**Research skills:** Experimental design, matched pairs, repeated testing for statistical confidence, distinguishing content bias from selection bias, reading for algorithmic assumptions
+
+**Course fit:** Works with discrimination chapters (7-9) but also serves as a capstone showing how classical research methods (audit studies from the 1980s) apply to new technologies.
+
+**Important note:** This assignment explicitly permits use of LLMs as research subjects (unique exception to the anti-LLM-for-data-generation policy). This is worth highlighting to students.
 
 ---
 
 ### **RA06: The Bechdel Test - Gender in Media**
-*Media analysis; feminist film criticism; representation*
 
-Students apply the Bechdel Test and additional metrics to TV shows/films to measure gender representation. Shows how seemingly neutral media choices (scene selection, dialogue, character focus) systematically exclude women's stories and agency.
+**Core method:** Content analysis, gender representation metrics, comparative analysis
 
-**Methods:** Content analysis, tallying, comparison across genres/time periods
-**Concepts:** Gender inequality, representation, male gaze, intersectionality, media literacy
+**What students do:**
+Apply the Bechdel Test and additional gender-focused measures to TV episodes or films. Count whether female characters appear, speak to each other, and discuss something other than men. Track patterns across episodes and genres.
+
+**Key insight:** Simple metrics reveal systematic patterns invisible in "just watching." The Bechdel Test is a feminist intervention that makes the male gaze quantifiable. This teaches that how we count matters.
+
+**Research skills:** Operationalizing concepts, tallying, recognizing variation and consistency, comparing across groups
+
+**Course fit:** Fits naturally with gender chapters (9) or media chapters (13). Can be combined with RA04 for a multimedia analysis unit.
 
 ---
 
 ### **RA07: Survey Research on Family Views**
-*Survey methodology; family sociology; social change*
 
-Students design and administer short surveys (15-20 responses) asking about family structure attitudes, division of labor, and changing values. Compares contemporary beliefs to historical patterns and peers' responses.
+**Core method:** Survey design, sampling, descriptive statistics, cross-tabulation
 
-**Methods:** Survey design, sampling, data entry, statistical summary, cross-tabulation
-**Concepts:** Family structures, gender roles, social change, values, socialization
+**What students do:**
+Design and administer a brief survey (8-10 questions) to 15-20 respondents asking about family structures, gender roles, intergenerational values, etc. Analyze distributions and compare across demographic groups if possible.
+
+**Key insight:** Survey design requires precision. What you ask shapes what you learn. Response rates, question wording, and sampling all matter.
+
+**Research skills:** Question design, sampling strategy, data entry, descriptive statistics, cross-tabulation, limitations of self-report
+
+**Course fit:** Works after family chapters (12) or as a follow-up to RA02 showing a different research method applied to similar questions (how people see themselves and their roles).
 
 ---
 
 ### **RA08: Media Consumption Diary - Class and Leisure**
-*Participant observation (self); consumption patterns; social stratification*
 
-Students track their own media and leisure consumption for 3-14 days, analyzing what activities cost money, require equipment, are public vs. private, digital vs. analog, commodified vs. free. Reveals how leisure choices reflect and reproduce class position.
+**Core method:** Participant observation (self), consumption tracking, content analysis
 
-**Methods:** Daily diary tracking, categorization table, media/consumption analysis
-**Concepts:** Cultural capital, commodification, social class, public/private divide, digital divide
+**What students do:**
+Track their own media and leisure consumption for 3-14 days. Create a categorization table noting: cost (free vs. paid), equipment (what's required), access (public vs. private), medium (digital vs. analog), participation (active vs. passive). Analyze what patterns reveal about their class position and consumption habits.
+
+**Key insight:** Leisure appears personal but is deeply structured by class. This assignment makes the invisible visible: the equipment you own, the money you spend, the time you have all shape "freely chosen" leisure.
+
+**Research skills:** Self-observation, systematic tracking, categorization, reflexivity on class position and privilege
+
+**Course fit:** Can be assigned later in semester after stratification is established. Works especially well combined with media/leisure chapters (13). Builds on RA01 by showing how to do participant observation in a different context.
 
 ---
 
 ### **RA09: Alienation in Student Work - Labor and Marxist Analysis**
-*Interview research; Marx's alienation theory; labor sociology*
 
-Students interview a peer about their work experience (campus job, service work, gig work) and analyze whether they experience alienation from: the product of their labor, the work process, coworkers, or themselves. Teaches how job structure (not personality) shapes worker experience.
+**Core method:** Semi-structured interviews, thematic coding, structural analysis
 
-**Methods:** Semi-structured interview (20-30 min), thematic coding, analysis of structural factors
-**Concepts:** Alienation, labor, capitalism, bureaucracy, work and identity
+**What students do:**
+Interview a peer about their work experience (campus job, service work, gig work, or treating school as "work"). Use an interview protocol exploring four dimensions: alienation from the product, the process, coworkers, and self. Code responses to identify which forms of alienation are strongest and why.
+
+**Key insight:** Marx's alienation is not about feeling bad at work—it's about specific structural features that disconnect workers from their labor, process, and each other. This teaches students to analyze structure, not personality.
+
+**Research skills:** Interview design, interview technique, coding for themes, distinguishing structural causes from individual traits, reflexivity on interviewer position
+
+**Course fit:** Assigned after Economy and Work chapter (11). This is one of your two interview-based assignments, so it introduces qualitative depth and the complexity of analyzing talk.
+
+**Important note:** Include ethics guidance on confidentiality, consent, and handling sensitive topics.
 
 ---
 
 ### **RA10: Leisure Consumption and Social Class**
-*Self-observation; stratification; distinction*
 
-Students document their leisure activities over 3-14 days, analyzing how access to certain activities depends on money, time, equipment, and cultural knowledge. Shows how leisure is a key site where class inequality is produced and reproduced.
+**Core method:** Self-observation, content analysis, stratification analysis
 
-**Methods:** Diary/photography, categorization by cost/access, comparative analysis
-**Concepts:** Cultural capital, social class, consumption, distinction, reproduction of inequality
+**What students do:**
+Document leisure activities over 3-14 days using photographs and categorization tables. Analyze how leisure choices reveal and reproduce social class: which activities cost money, which require equipment or access, which are publicly available.
 
----
+**Key insight:** Leisure is often framed as pure individual choice ("I just like what I like"). But leisure choices reflect and reinforce class position. Access to certain activities depends on money, time, cultural knowledge.
 
-## Assignment Structure
+**Research skills:** Visual documentation, categorization, reflexivity on personal consumption patterns
 
-Each assignment follows this consistent format:
-
-1. **Opening Narrative** - Engages students with a concrete example and poses sociological questions
-2. **Skills Section** - Explicitly states 2-3 learning goals (what students will be able to do)
-3. **Assignment Overview** - Describes what they'll actually do and how it connects to sociology
-4. **Rubric by Level:**
-   - **Basic** (250-300 words): Core requirements, simple scope
-   - **Proficient** (400-500 words): Intermediate complexity, more data/analysis
-   - **Advanced** (600-700 words): Sophisticated analysis, hypothesis testing, comparison
-5. **Report Structure** - How to organize their findings (Introduction → Methods → Findings → Conclusion → Appendix)
-6. **Grading Note** - Grades are based on clarity, evidence quality, and analytical depth—not on "interesting" subject matter
+**Course fit:** Works as a capstone combining self-observation, stratification, and consumption. Brings together concepts from across the course.
 
 ---
 
-## Key Pedagogical Features
+## Design Features Worth Preserving
 
-### Tiered Difficulty (Not Forced)
-Students **choose** their level. This reduces anxiety ("Will this count against me if I aim high?") and encourages ambition. Students can always revise upward.
+### Why These Assignments Work Together
 
-### Scaffolded Instructions
-Rather than "do qualitative analysis," we specify:
-- *How* to collect data (what counts as a "complete" observation)
-- *What* to look for (explicit examples of patterns)
-- *How* to code/analyze (step-by-step guidance)
-- *Why* it matters (connection to concepts)
+The ten assignments are sequenced and varied deliberately:
 
-### Built-in Reflexivity
-Every assignment asks students to reflect on limitations:
-- Could they have missed patterns?
-- How might their own position have shaped what they noticed?
-- What biases or assumptions did they bring?
+- **Method diversity**: Students experience ethnography (RA01), survey (RA02, RA07), experimental design (RA05), content analysis (RA04, RA06), interviews (RA09), and self-observation (RA03, RA08, RA10). This prevents "research" from becoming synonymous with one method.
 
-This teaches that sociology is not about objective "truth" but about transparent, defensible interpretation.
+- **Content diversity**: Topics range from interaction norms to labor, media representation to leisure. This shows students that sociology applies everywhere, not just to "social problems."
 
-### Multiple Research Methods
-Across the ten assignments, students experience:
-- Ethnographic observation (RA01, RA08)
-- Survey/interview research (RA02, RA07, RA09)
-- Content/media analysis (RA04, RA06, RA08)
-- Experimental design (RA05)
-- Norm violation/ethnomethodology (RA03)
+- **Escalating sophistication**: Early assignments teach observation and description. Mid-semester assignments introduce comparison and pattern recognition. Later assignments require hypothesis testing and custom measurement.
 
----
+### Assignment Structure (Consistent Across All Ten)
 
-## How to Use This Repository
+Every assignment follows the same format:
+1. **Opening narrative** (engages with concrete example and sociological question)
+2. **Skills section** (explicit learning goals)
+3. **Assignment overview** (what students will do and why)
+4. **Rubric by level** (Basic, Proficient, Advanced with specific requirements)
+5. **Report structure** (Introduction → Methods → Findings → Conclusion → Appendix)
+6. **Grading notes** (clarifying what counts as "good" work)
 
-### For Instructors
-- Each file is a complete, ready-to-deploy assignment
-- Assignments can be modified to fit your course calendar or context
-- Post links to Canvas or distribute files directly
-- Use the example rubrics as a grading checklist; feel free to adjust standards
+This consistency teaches students that sociological research follows a recognizable pattern, reducing cognitive load.
 
-### For Students
-- Read the assignment thoroughly before starting
-- **Choose your level** (don't assume you should do Advanced)
-- Use the Methods section to understand exactly what counts as "data"
-- Reference the Report Structure template when organizing your work
-- Include raw data in the Appendix (field notes, survey responses, screenshots, etc.)
+### Tiered Difficulty (Why It Matters)
 
----
+Students choose their level. This creates several benefits:
 
-## Integration with Course Schedule
+- **Reduced anxiety**: Students aren't forced to choose between "do less work" and "fail at more work." They can aim for Proficient and revise up if time allows.
+- **Intellectual honesty**: A Basic ethnography with clear limitations is better than a stretched Advanced paper that overreaches. This models good research practice.
+- **Realistic engagement**: Students understand that college is not high school—assignments can scale with their capacity.
 
-All ten assignments are due on **Sundays by 10pm** and are spaced throughout the semester to avoid clustering after exams or holidays.
+The escalation should be **conceptually meaningful**, not just "more work":
+- **Basic**: Can you identify a pattern and connect it to one concept?
+- **Proficient**: Can you compare patterns and show how multiple concepts operate?
+- **Advanced**: Can you develop your own measurement approach and justify it theoretically?
 
-| Assignment | Due Date | Chapter(s) | Key Concept |
-|-----------|----------|-----------|------------|
-| RA01 | Sun, Jan 18 | 1-2 (Intro/Methods) | Social norms |
-| RA02 | Sun, Jan 25 | 4 (Socialization) | Identity |
-| RA03 | Sun, Jan 31 | 5 (Groups) | Deviance |
-| RA04 | Sun, Feb 15 | 7-9 (Inequality) | Cultural capital |
-| RA05 | Sun, Mar 1 | 7-8-9 (Inequality) | Discrimination |
-| RA06 | Sun, Mar 29 | 13-14 (Media/Health) | Gender |
-| RA07 | Sun, Apr 6 | 10-12 (Institutions/Family) | Family structures |
-| RA08 | Sun, Apr 12 | 15 (Populations) | Social class |
-| RA09 | Sun, Apr 19 | 11 (Economy & Work) | Alienation |
-| RA10 | Sun, Apr 26 | Review | Inequality |
+### Evidence Requirements
+
+All assignments require students to show their raw data (field notes, survey responses, interview transcripts, screenshots, photographs). This serves multiple purposes:
+
+- **Prevents plagiarism/LLM generation**: Can't claim you observed something if you have no field notes.
+- **Makes analysis auditable**: Graders can see whether coding decisions are defensible.
+- **Teaches documentation**: Students learn that research requires detailed records, not just conclusions.
 
 ---
 
-## Key Resources
+## Practical Implementation
 
-- **Report Template:** [Google Doc](https://docs.google.com/document/d/1B8HbIVuqB8v81gK4dcgdhSHgu96nNl565554oqEcU0I/edit?usp=sharing) - Use this structure for all assignments
-- **Guidelines for Creating Research Applications:** See GUIDELINES_Creating_Research_Applications.md for detailed pedagogical framework
-- **TST Coding Sheet:** [PDF](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1) (for RA02)
+### Timing & Load
 
----
+All assignments are due on **Sundays by 10pm**. Students complete 10 RAs total and can drop their 4 lowest grades. This means each completed RA is worth ~5% of their final grade, creating a low-stakes environment where learning matters more than perfection.
 
-## Grading & Assessment
+**Spacing prevents clustering** after exams or holidays.
 
-### Point Distribution
-- 30% of course grade = Research Applications
-- 10 RAs available; students drop 4 lowest grades
-- **6 RAs required** = 5% each toward final grade
+### Grading Strategy
 
-### Grade Levels
-- **Advanced (100):** Sophisticated analysis, hypothesis testing, multiple data sources, deep reflection
-- **Proficient (87):** Clear analysis, systematic method, good evidence, adequate reflection
-- **Basic (75):** Core requirements met, observable patterns identified, some analytical insight
-- **Fail (0):** Incomplete or doesn't meet minimal requirements
+Rather than grading every assignment equally, consider:
+- **Minimum pass**: All three rubric components met at chosen level
+- **Quality variation**: An Advanced paper that misses one element is a "Proficient with Advanced attempts"
+- **Revision**: Students who fall short can revise for the grade they achieved, creating a learning-centered rather than punishment-centered system
 
-### Revision Policy
-Students who fall short of their attempted level can **revise and resubmit** for the grade they achieved (this policy rewards effort and learning, not perfection on first try).
+Many instructors find it helpful to create a **grading checklist** per assignment noting common failure modes (e.g., "Did they show how they coded ambiguous cases?" for RA02).
 
----
+### Integration with Lectures & Readings
 
-## Accessibility Note
+These assignments work best when:
+- Assigned **after** relevant chapters are covered (don't assign RA05 before stratification chapters)
+- Referenced in lecture (show an example field note, discuss how a TV scene illustrates cultural capital)
+- Connected to upcoming lectures (assign RA01 before discussing socialization so students recognize examples)
 
-These assignments are designed to be **flexible and resource-light**:
+### Technology & Access
 
-- Most require only observation, writing, and basic tools (pen, camera, spreadsheet)
-- Multiple valid approaches (e.g., observe any campus space, interview anyone who works)
-- No special equipment, membership, or travel required
-- Can be adapted for remote or asynchronous contexts if needed
+All assignments require minimal tech:
+- Field notes: pen and paper (or laptop)
+- Survey: Google Forms or pencil/paper
+- Content analysis: any TV/streaming service
+- Interview: phone call or in-person
+- Photograph: any smartphone camera
 
----
-
-## Contact & Questions
-
-For questions about specific assignments or pedagogical approach, contact the course instructor.
+This keeps barriers low for all students.
 
 ---
 
-*Last updated: January 2026*
-*These assignments are part of SOCI 101: Sociological Perspectives, a large-enrollment introductory course designed to develop the sociological imagination and research literacy.*
+## Customization & Extension
+
+### Adapting for Your Course
+
+Feel free to:
+- Adjust due dates to match your calendar
+- Modify examples to reflect your region/context
+- Add or remove assignments as needed
+- Change word counts if your course load differs
+
+### Creating New Assignments
+
+See `GUIDELINES_Creating_Research_Applications.md` for a complete framework for designing new assignments. Key principles:
+- Start with a clear concept or method you want to teach
+- Build backward from learning goal to assignment
+- Create 2-3 examples students can model
+- Write explicitly about ambiguity and edge cases
+- Include an ethics box if human subjects are involved
+
+---
+
+## Insights from Use
+
+### What Works Well
+
+- **Students remember concrete examples** more than abstract lectures. After observing norms, they understand socialization viscerally.
+- **Choice reduces resistance**. Students who choose Proficient don't feel like they're doing "less"—they're making a strategic decision.
+- **Low stakes enable honesty**. Students write more candid field notes and interview transcripts when they're not worried about final grades.
+
+### Common Challenges
+
+- **Ambiguity tolerance**: Some students struggle with open-ended observations. Providing 2-3 explicit examples helps.
+- **Overconfidence**: A few students think they'll do Advanced then realize halfway through the research is harder than expected. Emphasize that choosing Proficient is wise.
+- **Ethics anxiety**: Some students worry about being "creepy" observers. Normalize the discomfort and clarify boundaries.
+
+### Revision Patterns
+
+Students who revise their submissions typically jump from Basic → Proficient. They rarely skip a level. This suggests the rubrics are appropriately calibrated.
+
+---
+
+## Theory & Research Support
+
+These assignments are grounded in:
+
+- **Situated learning theory**: Students learn research by doing it in authentic contexts, not by reading about it.
+- **Scaffolding (Vygotsky)**: Each assignment provides just enough structure to guide work while leaving room for independent thinking.
+- **Constructivism**: Students build understanding through active observation and analysis, not passive reception.
+- **Critical pedagogy**: Assignments encourage students to question whose interests are served by current arrangements (media, hiring, leisure consumption).
+
+---
+
+## Contact & Contributions
+
+These assignments were developed for a large-enrollment introductory sociology course. If you adapt them for your course or develop new assignments following this framework, consider sharing improvements back to this repository.
+
+---
+
+*This framework prioritizes learning over assessment, transparency over mystery, and authentic research experience over busywork.*
