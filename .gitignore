@@ -1,6 +1,1 @@
 .DS_Store
-
-# Generated output directories (can be recreated with convert_to_formats.py)
-pdf/
-html/
-word/

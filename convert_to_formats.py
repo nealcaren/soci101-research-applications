@@ -6,7 +6,6 @@ This script:
 1. Takes all RA markdown files (RA01_*.md through RA10_*.md)
 2. Converts them to PDF, HTML, and DOCX using pandoc
 3. Organizes output into separate folders: pdf/, html/, word/
-4. Optionally organizes source markdown files into a markdown/ folder
 
 Requirements:
 - pandoc must be installed (brew install pandoc on macOS)
@@ -37,7 +36,6 @@ def create_directories(base_dir):
         'pdf': base_dir / 'pdf',
         'html': base_dir / 'html',
         'word': base_dir / 'word',
-        'markdown': base_dir / 'markdown',
     }
 
     for dir_name, dir_path in dirs.items():
@@ -99,20 +97,6 @@ def convert_file(input_file, output_dir, format_ext, format_type):
         return False
 
 
-def copy_markdown_files(ra_files, markdown_dir, base_dir):
-    """Copy source markdown files to markdown folder."""
-    import shutil
-
-    for md_file in ra_files:
-        try:
-            shutil.copy2(md_file, markdown_dir / md_file.name)
-        except Exception as e:
-            print(f"  ✗ Failed to copy {md_file.name}: {str(e)}")
-            return False
-
-    return True
-
-
 def main():
     """Main conversion function."""
     # Set base directory
@@ -170,13 +154,6 @@ def main():
 
         print()
 
-    # Copy markdown files to markdown folder
-    print("Organizing source markdown files...")
-    if copy_markdown_files(ra_files, dirs['markdown'], base_dir):
-        print(f"✓ Copied {len(ra_files)} markdown files to markdown/\n")
-    else:
-        print("⚠ Warning: Some markdown files could not be copied\n")
-
     # Summary
     print("=" * 60)
     print("Conversion Summary")
@@ -193,10 +170,9 @@ def main():
 
     print()
     print("Output structure:")
-    print("  pdf/      - PDF versions of all RAs")
-    print("  html/     - HTML versions of all RAs")
-    print("  word/     - Word (.docx) versions of all RAs")
-    print("  markdown/ - Source markdown files (organized)")
+    print("  pdf/   - PDF versions of all RAs")
+    print("  html/  - HTML versions of all RAs")
+    print("  word/  - Word (.docx) versions of all RAs")
     print()
 
 
