@@ -1,6 +1,6 @@
 This assignment examines how television shows represent social class through Pierre Bourdieu's concept of cultural capital—the knowledge, behaviors, and assets that shape social mobility. You'll analyze characters from different class backgrounds across multiple episodes, examining how their speech patterns, possessions, and credentials reflect and reinforce class distinctions.
 
-Television provides a unique lens for studying cultural capital: while it may exaggerate obvious class markers like clothing and homes for dramatic effect, it often understates subtler distinctions that shape real social mobility, like micro-behaviors and cultural references. TV characters can also navigate class boundaries more fluidly than real people, sometimes oversimplifying how deeply ingrained cultural capital affects social advancement. By critically analyzing these portrayals, you develop a sharper understanding of both media representation and real-world class dynamics.
+Television provides a unique lens for studying cultural capital: while it may exaggerate obvious class markers like clothing and homes for dramatic effect, it often understates subtler distinctions that shape real social mobility, like micro-behaviors and cultural references. By critically analyzing these portrayals, you develop a sharper understanding of both media representation and real-world class dynamics.
 
 This exercise develops three essential sociological skills:
 
@@ -26,13 +26,15 @@ Cultural capital exists in three forms, each shaping how individuals navigate so
 
 - **Institutionalized cultural capital** is formal recognition of cultural competencies, such as academic degrees, professional certifications, or prestigious awards, which serve as credentials that grant social legitimacy and access to higher-status opportunities. In television narratives, these forms of cultural capital can be observed in how characters speak, what they own, and the credentials they use to navigate their worlds, influencing their social mobility, relationships, and the way others perceive them.
 
-Children from privileged backgrounds gain advantages through exposure to high-status cultural norms, shaping their educational success and career prospects. It also affects how others perceive and evaluate individuals, such as in job interviews, where familiarity with elite social cues can provide an edge. While some attempt to acquire cultural capital later in life---through education, travel, or social networking---deeply ingrained class markers like accent and mannerisms often persist, reinforcing social hierarchies.
+Children from privileged backgrounds gain advantages through exposure to high-status cultural norms, shaping their educational success and career prospects. While some attempt to acquire cultural capital later in life---through education, travel, or social networking---deeply ingrained class markers like accent and mannerisms often persist, reinforcing social hierarchies.
 
 ### **Assignment Tasks**
 
 - **Choose a TV Show and Characters:**
 
   - Select a television show featuring characters from different social classes. It could be either a reality or a scripted television show.
+
+  - **Note:** *Gossip Girl* may **not** be used for this assignment. Because it makes class distinctions unusually explicit and stylized, it limits your ability to analyze subtler forms of cultural capital. Choose a show where class differences are present but not always announced.
 
   - Identify two characters who represent different class positions:
 
@@ -60,9 +62,7 @@ Children from privileged backgrounds gain advantages through exposure to high-st
 
   - **Objectified Cultural Capital** (material possessions and cultural goods)
 
-    - **Leisure activities and hobbies:** What pastimes does the character engage in? Are they involved in activities typically associated with wealth and status (e.g., golf, ballet, international travel) or more working-class pursuits (e.g., barbecuing, bowling, video gaming)?
-
-    - **Cultural consumption:** What kinds of music, art, or literature does the character enjoy? Do they attend museums, read classic novels, or listen to opera, or do they prefer pop culture and mainstream entertainment?
+    - **Leisure and cultural consumption:** What pastimes and entertainment does the character enjoy? Do they engage in activities and consumption (golf, opera, museums, classic novels) associated with wealth and status, or more working-class pursuits (barbecuing, bowling, pop culture)?
 
     - **Fashion choices and brand preferences:** Does the character wear designer labels, business attire, or casual clothes? Do their fashion choices signal wealth, professionalism, or rebellion against social norms?
 
@@ -104,6 +104,8 @@ By organizing your analysis around these three forms of cultural capital, consid
 
 ### **Rubric**
 
+**All levels should include supporting evidence such as screen images or photos from the show.**
+
 #### **Basic (250-word minimum) -- Watch 2 episodes**
 
 - Identifies characters and their class positions
@@ -113,8 +115,6 @@ By organizing your analysis around these three forms of cultural capital, consid
 - Applies at least one theoretical concept
 
 - Includes basic critical analysis
-
-- Provides supporting evidence, such as as screen images from the show.
 
 #### **Proficient (500-word minimum) -- Watch 3 episodes**
 
@@ -129,8 +129,6 @@ Basic Requirements plus:
 - Analyzes stereotypes and bias
 
 - Evaluates show\'s commentary on class
-
-- Includes detailed supporting evidence, , such as as screen images from the show.
 
 #### **Advanced (600-word minimum + hypothesis) -- Watch 4 episodes**
 
@@ -147,9 +145,7 @@ Proficient requirements plus:
 
   - Characters maintain stronger relationships with others sharing their cultural capital markers
 
-  - Class mobility storylines focus more on economic capital than cultural capital acquisition
-
-- Detailed analysis of cultural capital differences (5+ examples), including photos.
+- Detailed analysis of cultural capital differences (5+ examples).
 
 - **As part of your findings, include an analysis of which of the three forms cultural capital are most prominent.**
 
