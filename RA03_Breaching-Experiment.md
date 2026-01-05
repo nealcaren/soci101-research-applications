@@ -1,0 +1,86 @@
+Social interaction represents one of the central building blocks of society. Despite being unscripted, these interactions have strict unwritten rules. Breaking those rules, or being deviant, is a critical way of discovering what the norms are and what is the range of reactions to norm violations. Before you begin, please review the section on "Values, Norms, and Sanctions" in the Culture chapter and take a look at page 438 in the textbook ("Encounters with Strangers"), particularly the concept of "civil inattention."
+
+This exercise develops three essential sociological skills:
+
+1. Observing and analyzing the unwritten rules that govern everyday interactions
+2. Understanding how people enforce social norms through their reactions to violations
+3. Recognizing how deviance reveals the underlying structure of social order
+
+## Assignment Overview
+
+In this research application, you will conduct a breaching experiment—an exercise that deliberately violates one or more social norms—and analyze people's reactions. You can work alone or in a group (four or fewer participants), and your breach can be conducted either in physical spaces or digitally. Through your observations and documentation, you'll uncover the invisible rules that structure social interaction and understand what happens when those rules are broken. You'll then write a research report analyzing what your breach revealed about norms, social control, and human interaction.
+
+**Ethical constraints:** The norm violation cannot include illegal activities or those that might risk someone's safety, health, or well-being. Don't complete breaches where the violation itself causes someone sadness or anger (e.g., telling a friend they look ugly). No being mean. **Important:** You may conduct your breach as part of a group, but each person must perform the breach at least once and individually write and submit a research report.
+
+The specific requirements for what you need to do vary depending on what grade you would like to earn: Basic (75), Proficient (87), or Advanced (100). Students who come close but do not satisfactorily complete the requirements for a level will be allowed to revise and resubmit their application.
+
+## Report Structure
+
+Use the standard [[research report template](https://docs.google.com/document/d/1B8HbIVuqB8v81gK4dcgdhSHgu96nNl565554oqEcU0I/edit?usp=sharing)]. Below are the specific requirements for each section:
+
+---
+
+**In your submission, clearly state which level you are attempting: "Basic," "Proficient," or "Advanced."** You must complete all components of that level to earn the grade.
+
+## Rubric: Assignment Components by Level
+
+### **Introduction: Project Overview**
+
+**All levels should:**
+- Explain what norm violations reveal about social interaction
+- Describe which norms you decided to breach and why these were good choices for learning
+- Note your expectations: What did you think would happen? How did you predict people would react?
+
+### **Methods: Analytical Roadmap**
+
+**All levels should:**
+- **Clearly explain which social norms you violated.** Be specific: What exactly is the norm? Why is it a norm? How did you violate it?
+- Describe the setting(s) where you conducted the breach(es) (physical or digital)
+- Explain your selection process: Why did you choose these particular norms? What made them good choices for investigation?
+- Describe your approach to observation and documentation—what did you pay attention to?
+
+**All levels should include:**
+- Video or photographic proof of the breach (ideally a link to video; if solo work, a photo pre- or post-breach is sufficient)
+- Proof submission instructions: Attach to Canvas or text to Professor Caren (919-381-7638) with your name. In your report, note: "I texted the video to Professor Caren from my phone, 919-xxx-xxxx"
+
+**Ethical requirements (all levels):**
+- **Respect the privacy of others.** Do not identify people by name in your report. Use generic descriptions (e.g., "a stranger," "a friend," "a cashier")
+- **Protect emotional safety.** If anyone expressed genuine discomfort or distress, remove that breach from your report and explanation
+- If conducting digitally (e.g., in Discord, forums, online games), note the platform and context
+
+### **Findings: Trends and Significance**
+
+**Basic (250 words minimum):**
+- Describe which norm(s) you violated and how
+- Detail people's actual reactions (not predicted, but what really happened)
+- Describe how you felt during the breach and reflect on why you felt that way
+- Create a simple list or table showing: Norm Violated | People's Reactions | Your Feelings
+
+**Proficient (500 words minimum):**
+- Describe multiple breaches (more than one norm, or same norm in different ways)
+- Use detailed description to explain people's varied reactions across breaches
+- Discuss your emotional experience and analyze why these feelings occurred
+- Create a table showing: Norm Violated | Setting | Predicted Reaction | Actual Reaction | Your Feeling
+- Explain what your findings mean sociologically (connection to more than one course concept—bold them, e.g., **civil inattention**, **deviance**, **sanctions**)
+
+**Advanced (500+ words minimum):**
+- Develop and clearly state your hypothesis before describing breaches (e.g., "Strangers are more likely to use face-saving behaviors than friends," or "Online communities have different norm-violation tolerances than in-person spaces")
+- Describe multiple breaches designed to test your hypothesis
+- Create a detailed table showing results: Norm | Context | Hypothesis Prediction | Actual Result | Analysis
+- Analyze how the breach might have differed if a different person conducted it (consider personality, identity, social position, etc.)
+- Explain findings in relation to course concepts (bold them)
+
+### **Conclusion: Sociological Synthesis**
+
+**All levels should:**
+- Reflect on what your breaches revealed about social norms and interactions
+- Connect findings to course concepts—explain how your observations illustrate or complicate **theories of deviance**, **social control**, **norms and sanctions**, or **civil inattention**
+- Evaluate your methodology: What are the limitations? Could others have interpreted reactions differently? What assumptions did you make?
+- Discuss any surprises or unexpected findings
+
+### **Appendix: Supplementary Information**
+
+**All levels should include:**
+- Your video link or photograph (proving breach occurred)
+- Your detailed observation notes from the breach(es)
+- Any additional photos or evidence documenting the breach
